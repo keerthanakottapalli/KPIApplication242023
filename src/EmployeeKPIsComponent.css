@@ -1,0 +1,65 @@
+/* Main container for the component */
+.Container {
+    padding: 20px;
+  }
+  
+  /* AppBar (Header) styling */
+  .AppBar {
+    background-color: #00AAE7; 
+    border-bottom: 1px solid #ccc; 
+  }
+  
+  /* Tabs styling */
+  .Tabs {
+    background-color: #0d4168; 
+    border-bottom: 1px solid #ccc; 
+  }
+  
+  /* Selected (active) tab styling */
+  .Tab.Mui-selected {
+    /* background-color: white;  */
+    color: black 
+  }
+  
+  /* Tab label styling */
+  .Tab.MuiTab-root {
+    color: #333; 
+    font-weight: bold;
+    text-transform: none; 
+  }
+  
+  /* Tab content styling */
+  .TabContent {
+    background-color: #f9f9f9; 
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+  
+  /* Sub-tabs styling */
+  .SubTabs {
+    background-color: #f0f0f0; 
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+  }
+  
+  /* Sub-tab label styling */
+  .SubTabLabel {
+    color: #333; 
+    font-weight: bold;
+  }
+  
+  /* Question list styling */
+  .QuestionList {
+    list-style-type: square;
+    margin-left: 20px;
+    color: #444; 
+  }
+  
+  /* Project name styling */
+  .ProjectName {
+    font-weight: bold;
+    margin-bottom: 5px;
+    color: #222; 
+  }
+  
